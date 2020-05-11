@@ -20,9 +20,11 @@
           - Teoria: https://www.youtube.com/watch?v=QBOUSrMqlSQ
           - Practica: https://www.youtube.com/watch?v=VmHO_AjxHnQ
        - Primera landing: https://www.youtube.com/watch?v=Q2imkhmhOFo&t
+       - UDEMY(PAGO) 10 proyectos CSS https://www.udemy.com/course/css-grid-y-flexbox-la-guia-definitiva-crea-10-proyectos/
         
   - JAVASCRIPT
     - Introducción https://www.udemy.com/course/programacion-para-principiantes/
+    - Udemy (Pago) 15 Proyectos en javascript https://www.udemy.com/course/javascript-moderno-guia-definitiva-construye-10-proyectos/
     - Youtube
       - https://www.youtube.com/watch?v=RqQ1d1qEWlE
     - Te gusta leer? 
