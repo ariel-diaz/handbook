@@ -24,6 +24,7 @@
         
   - JAVASCRIPT
     - Introducción https://www.udemy.com/course/programacion-para-principiantes/
+    - Buenas practicas - https://github.com/andersontr15/clean-code-javascript-es
     - Udemy (Pago) 15 Proyectos en javascript https://www.udemy.com/course/javascript-moderno-guia-definitiva-construye-10-proyectos/
     - Youtube
       - https://www.youtube.com/watch?v=RqQ1d1qEWlE
