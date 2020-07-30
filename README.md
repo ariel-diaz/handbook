@@ -7,6 +7,7 @@
     - Youtube
       - https://www.youtube.com/watch?v=rbuYtrNUxg4
   - CSS
+      - CSS https://www.youtube.com/watch?v=W6GTDfrWjXs&t=2455s
       - CSS FLEX
          - Conceptos básicos: https://developer.mozilla.org/es/docs/Web/CSS/CSS_Flexible_Box_Layout/Conceptos_Basicos_de_Flexbox
          - Más ilustrativo: https://css-tricks.com/snippets/css/a-guide-to-flexbox/ 
